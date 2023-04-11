@@ -46,3 +46,4 @@ b = ['dog', 'cat']
 k.extend(b)
 
 print(k)
+# лятватват
